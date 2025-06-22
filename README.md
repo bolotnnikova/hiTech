@@ -1,10 +1,10 @@
 ## Task
 Here’s the task: Using ReactJS (https://reactjs.org/) and Material UI (https://material-ui.com/), develop a simple website that includes the following:
-A header section with 2–3 menu items;
-A footer section with icons and links to social media platforms of your choice;
-2–3 content pages with an image and text. Ideally, the content should be loaded from a freely available API;
-Using Redux and TypeScript will be considered a bonus;
-The website must be responsive – it should work both on desktop and mobile devices.
+- A header section with 2–3 menu items;
+- A footer section with icons and links to social media platforms of your choice;
+- 2–3 content pages with an image and text. Ideally, the content should be loaded from a freely available API;
+- Using Redux and TypeScript will be considered a bonus;
+- The website must be responsive – it should work both on desktop and mobile devices.
 
 # React + Vite
 
